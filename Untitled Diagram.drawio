@@ -1,12 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2399" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3073" dy="1329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object label="Orgchart" id="dNxyNK7c78bLwvsdeMH5-11">
           <mxCell style="startSize=20;horizontal=1;containerType=tree;glass=0;title=&quot;Bosch HcP Organization Chart&quot;;labelBackgroundColor=none;rounded=0;container=0;" parent="1" vertex="1">
-            <mxGeometry x="-350" y="280" width="1660" height="800" as="geometry" />
+            <mxGeometry x="-330" y="280" width="1700" height="800" as="geometry" />
           </mxCell>
         </object>
         <UserObject label="&lt;div&gt;%name%&lt;/div&gt;%location%" name="Bosch Ho Chi Minh City Plant (HcP)" location="Long Thanh, Dong Nai" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-12">
