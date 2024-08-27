@@ -1,12 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="3073" dy="1329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2574" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object label="Orgchart" id="dNxyNK7c78bLwvsdeMH5-11">
           <mxCell style="startSize=20;horizontal=1;containerType=tree;glass=0;title=&quot;Bosch HcP Organization Chart&quot;;labelBackgroundColor=none;rounded=0;container=0;" parent="1" vertex="1">
-            <mxGeometry x="-330" y="280" width="1700" height="800" as="geometry" />
+            <mxGeometry x="-350" y="280" width="1720" height="800" as="geometry" />
           </mxCell>
         </object>
         <UserObject label="&lt;div&gt;%name%&lt;/div&gt;%location%" name="Bosch Ho Chi Minh City Plant (HcP)" location="Long Thanh, Dong Nai" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-12">
@@ -119,15 +119,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="glfbsP79IOTm6c0mOeB2-100" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;labelBackgroundColor=none;fontColor=default;exitX=0.657;exitY=0.797;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="976" y="917.3366666666666" as="targetPoint" />
-            <mxPoint x="790" y="917" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="glfbsP79IOTm6c0mOeB2-101" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="glfbsP79IOTm6c0mOeB2-41">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="917" as="targetPoint" />
+            <mxPoint x="740" y="920" as="targetPoint" />
             <Array as="points">
               <mxPoint x="740" y="940" />
             </Array>
@@ -135,7 +129,7 @@
         </mxCell>
         <mxCell id="glfbsP79IOTm6c0mOeB2-102" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="glfbsP79IOTm6c0mOeB2-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="975.727272727273" y="917.3366666666666" as="targetPoint" />
+            <mxPoint x="970" y="920" as="targetPoint" />
             <Array as="points">
               <mxPoint x="976" y="940.0033333333333" />
             </Array>
@@ -295,6 +289,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="415" y="440" as="sourcePoint" />
             <mxPoint x="415" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="glfbsP79IOTm6c0mOeB2-136" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="920" as="sourcePoint" />
+            <mxPoint x="970" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
